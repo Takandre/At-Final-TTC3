@@ -1,0 +1,15 @@
+{
+  "version": "1.4.4.dev0",
+  "integration_state_schema": 1,
+  "installed_integrations": [
+    "grok"
+  ],
+  "integration_settings": {
+    "grok": {
+      "script": "py",
+      "invoke_separator": "-"
+    }
+  },
+  "integration": "grok",
+  "default_integration": "grok"
+}
